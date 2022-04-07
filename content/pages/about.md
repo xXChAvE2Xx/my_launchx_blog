@@ -2,7 +2,7 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acerca de Mi"
 ---
 
 ## Who am I
