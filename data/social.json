@@ -9,6 +9,16 @@
       "name": "github",
       "url": "https://github.com/xXChAvE2Xx",
       "image": "images/social/github.svg"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/raul-antonio-chavez-aguirre-26247b218/",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "Instragram",
+      "url": "https://www.instagram.com/ra.ca30/",
+      "image": "images/social/instragram.svg"
     }
   ]
 }
