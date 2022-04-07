@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://xxchave2xx.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://xxchave2xx.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://xxchave2xx.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! En este post te platicaré a cerca de lo que he aprendido en LaunchX.
+Desde que inicie con esta aventura aprendí muchas cosas nuevas y reforcé mis conocimientos sobre algunas tecnologías que ya conocía. Primero comenzamos con un onboarding, en el cual aprendimos a utilizar Python y el cómo funcionaba GitHub, después seguimos con las semanas de frontend, en la que aprendí CSS y reforcé algunos conocimientos sobre HTML y JavaScript.</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas</title>
       <link>https://xxchave2xx.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
