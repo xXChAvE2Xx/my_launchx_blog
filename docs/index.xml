@@ -8,33 +8,13 @@
     <language>es-MX</language>
     <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xxchave2xx.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git: Basico</title>
-      <link>https://xxchave2xx.github.io/my_launchx_blog/posts/post_2/</link>
+      <title>Git: Básico</title>
+      <link>https://xxchave2xx.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://xxchave2xx.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>Hola
-Este es una prueba de mi git</description>
-    </item>
-    
-    <item>
-      <title>Mi ruta de aprendizaje en LaunchX</title>
-      <link>https://xxchave2xx.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xxchave2xx.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>¡Hola! En este post te platicaré a cerca de lo que he aprendido en LaunchX.
-Desde que inicie con esta aventura aprendí muchas cosas nuevas y reforcé mis conocimientos sobre algunas tecnologías que ya conocía. Primero comenzamos con un onboarding, en el cual aprendimos a utilizar Python y el cómo funcionaba GitHub, después seguimos con las semanas de frontend, en la que aprendí CSS y reforcé algunos conocimientos sobre HTML y JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Mis expectativas</title>
-      <link>https://xxchave2xx.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://xxchave2xx.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>¡Hola Xplorers!
-Creo que cuando mencionan a una persona encargada de desarrollo de software o que se dedica a la tecnología en general, la mayoría de las personas piensa que como tímidos, que no nos gusta socializar, que somos muy inteligentes. Y a pesar de que en la mayoría de los casos si lo somos, en muchas ocasiones depende de la persona elegir como ser. Por último, creo yo que la cultura del desarrollo de software se base en los siguientes valores:</description>
+      <description>Hola
+Git Básico</description>
     </item>
     
     <item>
