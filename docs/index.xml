@@ -5,8 +5,18 @@
     <link>https://xxchave2xx.github.io/my_launchx_blog/</link>
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xxchave2xx.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-MX</language>
+    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xxchave2xx.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git: Basico</title>
+      <link>https://xxchave2xx.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xxchave2xx.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola
+Este es una prueba de mi git</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje en LaunchX</title>
       <link>https://xxchave2xx.github.io/my_launchx_blog/posts/post_1/</link>
