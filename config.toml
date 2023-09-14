@@ -1,5 +1,5 @@
 baseURL = "https://xxchave2xx.github.io/my_launchx_blog/"
-languageCode = "en-us"
+languageCode = "es-MX"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
 relativeURLs = true
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@Chavez_2504"
+  twitter_handle = ""
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
